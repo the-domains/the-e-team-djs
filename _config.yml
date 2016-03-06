@@ -1,14 +1,26 @@
-layout_spectrum: 0
 color:
   saturation: 0.9182603
-  lightness: 0.3148936
   brandStrength: 0.8319149
+  rhythmicContrast: 0.4829787
   brandColors:
     - '#040403'
     - '#FEFEFE'
     - '#5C5B43'
     - '#BD42E9'
     - '#1E66D7'
-  rhythmicContrast: 0.4829787
+  lightness: 0.3148936
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
 typography_spectrum: 0.09361702
 name: The E-Team DJs
