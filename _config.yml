@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: DJ and Photo Booth Services
+title: The E-Team DJ and Photo Booth
 cta:
   domain: null
   bucket: null
