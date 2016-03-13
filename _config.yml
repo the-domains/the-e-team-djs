@@ -1,14 +1,7 @@
-color:
-  saturation: 0.9182603
-  brandStrength: 0.8319149
-  rhythmicContrast: 0.4829787
-  brandColors:
-    - '#040403'
-    - '#FEFEFE'
-    - '#5C5B43'
-    - '#BD42E9'
-    - '#1E66D7'
-  lightness: 0.3148936
+name: The E-Team DJs
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.09361702
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0
-typography_spectrum: 0.09361702
-name: The E-Team DJs
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#19ffff'
+    - '#191b1a'
+    - '#ff97fe'
+    - '#ff2523'
+  brandStrength: 0.8319149
+  lightness: 0.3148936
+  saturation: 0.9182603
+  rhythmicContrast: 0.4829787
+purpose: []
