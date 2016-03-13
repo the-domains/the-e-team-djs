@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: DJ and Photo Booth Services
 cta:
   domain: null
   bucket: null
