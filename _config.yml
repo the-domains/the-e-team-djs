@@ -1,7 +1,7 @@
 name: The E-Team DJs
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.09361702
+typography_spectrum: 0.07143
 collections:
   - index:
       path: /
